@@ -1,0 +1,12 @@
+.div1{
+    background-color: red;
+}
+.div2{
+    background-color: yellow;
+}
+.div3{
+    background-color: green;
+}
+div{
+    float:left
+}

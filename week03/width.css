@@ -1,0 +1,22 @@
+div{
+    max-width: 500px;
+    height: 100px;
+    margin: auto;
+    background-color: powderblue;
+}
+div.pixel {
+    height: 100px;
+    width: 50px;
+    background-color: powderblue;
+    border: 3px solid green;
+}
+div.percentage {
+    height: 100px;
+    width: 50%;
+    background-color: powderblue;
+    border: 3px solid green;
+}
+div.maxwidth{
+    max-width: 500px;
+    border: 3px solid green;
+}

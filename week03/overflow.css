@@ -1,0 +1,20 @@
+div.auto{
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}
+div.scroll{
+    width: 200px;
+    height: 100px;
+    overflow: scroll;
+}
+div.visible{
+    width: 200px;
+    height: 100px;
+    overflow: visible;
+}
+div.hidden{
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}

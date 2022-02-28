@@ -1,0 +1,25 @@
+p{
+    background-color: yellow;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 90px;
+}
+ul{
+    background-color: turquoise;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 90px;
+}
+div{
+    background-color: pink;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 90px;
+}
+p.green{
+    background-color: lawngreen;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 90px;
+}
+
